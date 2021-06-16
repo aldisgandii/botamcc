@@ -1,0 +1,373 @@
+{
+   "knowledge_base" :[
+       {
+            "kategori" : "pelatihan",
+            "kata_kunci": "pelatihan rutin",
+            "jawaban": "Pelatihan rutin diadakan setiap hari sabtu puku 08:30 s/d 15.00 bertempat di gedung 5 ruang 5.4.1 s/d 5.4.8"
+       },
+       {
+            "kategori" : "pelatihan",
+            "kata_kunci": "setiap hari apa",
+            "jawaban": "Pelatihan rutin diadakan setiap hari sabtu puku 08:30 s/d 15.00 bertempat di gedung 5 ruang 5.4.1 s/d 5.4.8"
+       },
+       {
+            "kategori" : "pelatihan",
+            "kata_kunci": "pelatihan berpakali",
+            "jawaban": "Pelatihan sebanyak 12x pertemuan dan diadakan setiap hari sabtu yang dibagi menjadi 2 sesi, jadi jangan takut ketinggalan pelatihan"
+       },
+       {
+            "kategori" : "pelatihan",
+            "kata_kunci": "berapa pertemuan",
+            "jawaban": "Pelatihan sebanyak 12x pertemuan dan diadakan setiap hari sabtu yang dibagi menjadi 2 sesi, jadi jangan takut ketinggalan pelatihan"
+       },
+       {
+            "kategori" : "pelatihan",
+            "kata_kunci": "berapa sesi",
+            "jawaban": "Sesi 1 mulai pukul 09:00 s/d 11:00 dan Sesi 2 mulai pukul 13:00 s/d 16:00"
+       },
+       {
+            "kategori" : "pelatihan",
+            "kata_kunci": "jam pelatihan",
+            "jawaban": "Sesi 1 mulai pukul 09:00 s/d 11:00 dan Sesi 2 mulai pukul 13:00 s/d 16:00"
+       },
+       {
+            "kategori" : "pelatihan",
+            "kata_kunci": "materi pelatihan",
+            "jawaban": "Materi pelatihan dapat dilihat di member.amcc.or.id dengan login menggunakan email dan nomor telepon yang di daftarkan sewaktu join member"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "amcc ada berapa divisi",
+            "jawaban": "AMCC memiliki 5 divisi, yaitu:\n1.Web Programming\n2.Desktop Programming\n3.Mobile Programming\n4.Hardware Software\n5.Computer Network"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "amcc punya berapa divisi",
+            "jawaban": "AMCC memiliki 5 divisi, yaitu:\n1.Web Programming\n2.Desktop Programming\n3.Mobile Programming\n4.Hardware Software\n5.Computer Network"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "divisi apa aja",
+            "jawaban": "AMCC memiliki 5 divisi, yaitu:\n1.Web Programming\n2.Desktop Programming\n3.Mobile Programming\n4.Hardware Software\n5.Computer Network"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "ada divisi",
+            "jawaban": "AMCC memiliki 5 divisi, yaitu:\n1.Web Programming\n2.Desktop Programming\n3.Mobile Programming\n4.Hardware Software\n5.Computer Network"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "punya divisi",
+            "jawaban": "AMCC memiliki 5 divisi, yaitu:\n1.Web Programming\n2.Desktop Programming\n3.Mobile Programming\n4.Hardware Software\n5.Computer Network"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "join",
+            "jawaban": "Pendaftaran member dapat dilakukan secara online di join.amcc.or.id dan untuk offline silahkan mengunjungi stand AMCC di basement 5"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "biaya pendaftaran",
+            "jawaban": "Biaya pendaftaran cuma 80K, yuk segera daftar di join.amcc.or.id"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "bayar berapa",
+            "jawaban": "Biaya pendaftaran cuma 80K, yuk segera daftar di join.amcc.or.id"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "htm",
+            "jawaban": "Biaya pendaftaran cuma 80K, yuk segera daftar di join.amcc.or.id"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "pendaftaran member",
+            "jawaban": "Pendaftaran member dapat dilakukan secara online di join.amcc.or.id dan untuk offline silahkan mengunjungi stand AMCC di basement 5"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "cara daftar",
+            "jawaban": "Pendaftaran member dapat dilakukan secara online di join.amcc.or.id dan untuk offline silahkan mengunjungi stand AMCC di basement 5"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "daftar amcc",
+            "jawaban": "Pendaftaran member dapat dilakukan secara online di join.amcc.or.id dan untuk offline silahkan mengunjungi stand AMCC di basement 5"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "daftar offline",
+            "jawaban": "Untuk offline silahkan mengunjungi stand AMCC di basement 5"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "daftar online",
+            "jawaban": "Pendaftaran member dapat dilakukan secara online di join.amcc.or.id"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "biaya pendaftaran",
+            "jawaban": "Biayanya cuma 80K saja\n Yuk segera daftar di stand AMCC basement 5 atau bisa juga online dari join.amcc.or.id"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "syarat member",
+            "jawaban": "Syarat mendaftar menjadi member AMCC cuma 1, yaitu:\n 'Mahasiswa Aktif' gampang kan?\n Yuk segera daftar di stand AMCC basement 5 atau bisa juga online dari join.amcc.or.id"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "syarat pendaftaran",
+            "jawaban": "Syarat mendaftar menjadi member AMCC cuma 1, yaitu:\n 'Mahasiswa Aktif' gampang kan?\n Yuk segera daftar di stand AMCC basement 5 atau bisa juga online dari join.amcc.or.id"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "syarat daftar",
+            "jawaban": "Syarat mendaftar menjadi member AMCC cuma 1, yaitu:\n 'Mahasiswa Aktif' gampang kan?\n Yuk segera daftar di stand AMCC basement 5 atau bisa juga online dari join.amcc.or.id"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "web programming",
+            "jawaban": "Mempelajari dasar-dasar dalam pembuatan sebuah web, frontend dan backend, hingga perkembangan terkini terkait teknologi web"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "divisi web",
+            "jawaban": "Mempelajari dasar-dasar dalam pembuatan sebuah web, frontend dan backend, hingga perkembangan terkini terkait teknologi web"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "tools web",
+            "jawaban": "Web programming cuma makai browser, xampp, sama editor saja"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "desktop programming",
+            "jawaban": "Mempelajari bahasa pemrograman C# untuk pengembangan aplikasi desktop"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "divisi desktop",
+            "jawaban": "Mempelajari bahasa pemrograman C# untuk pengembangan aplikasi desktop"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "tools desktop",
+            "jawaban": "Cuma visual studio saja"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "hardware software",
+            "jawaban": "Mempelajari perakitan, instalasi, dan troubleshooting PC, juga mikrokontroller hingga Internet of Things"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "hardware belajar apa",
+            "jawaban": "Mempelajari perakitan, instalasi, dan troubleshooting PC, juga mikrokontroller hingga Internet of Things"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "computer network",
+            "jawaban": "Mempelajari konsep dan implementasi jaringan komputer, Mikrotik, dan networking tools lainnya"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "divisi network",
+            "jawaban": "Mempelajari konsep dan implementasi jaringan komputer, Mikrotik, dan networking tools lainnya"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "mobile programming",
+            "jawaban": "Mempelajari pengembangan sofware berbasis android menggunakan android studio, dan bahasa pemograman java /kotlin lainnya"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "divisi mobile",
+            "jawaban": "Mempelajari pengembangan sofware berbasis android menggunakan android studio, dan bahasa pemograman java /kotlin lainnya"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "divisi terbaik",
+            "jawaban": "Semua divisi di amcc adalah divisi terbaik dengan segudang prestasi"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "bagus divisi",
+            "jawaban": "Semua divisi di amcc adalah divisi terbaik dengan segudang prestasi"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "divisi yang bagus",
+            "jawaban": "Semua divisi di amcc adalah divisi terbaik dengan segudang prestasi"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "karya",
+            "jawaban": "Karya amcc dapat dilihat langsung di karya.amcc.or.id atau langsung di playstore"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "punya karya",
+            "jawaban": "Karya amcc dapat dilihat langsung di karya.amcc.or.id atau langsung di playstore"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "pindah divisi",
+            "jawaban": "Boleh, hanya saja nantinya kartu membernya akan tetap ditulis dengan divisi pertama yang didaftarkan"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "bayar dimana",
+            "jawaban": "Pembayaran bisa dilakukan di basement v atau di gedung BSC lantai 2"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "cara bayar",
+            "jawaban": "Pembayaran bisa dilakukan di basement v atau di gedung BSC lantai 2"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "mau bayar",
+            "jawaban": "Pembayaran bisa dilakukan di basement v atau di gedung BSC lantai 2"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "ganti divisi",
+            "jawaban": "Boleh, hanya saja nantinya kartu membernya akan tetap ditulis dengan divisi pertama yang didaftarkan"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "boleh 2 divisi",
+            "jawaban": "Boleh, tinggal disesuaikan saja waktunya karena amcc hanya punya 2 sesi dalam setiap pelatihan rutinnya"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "2 divisi",
+            "jawaban": "Boleh, tinggal disesuaikan saja waktunya karena amcc hanya punya 2 sesi dalam setiap pelatihan rutinnya"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "lebih dari satu",
+            "jawaban": "Boleh, tinggal disesuaikan saja waktunya karena amcc hanya punya 2 sesi dalam setiap pelatihan rutinnya"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "spek laptop",
+            "jawaban": "Untuk spesifikasi laptop dapat disesuaikan sebagi berikut:\n 1. Web (Minimal ram 2gb dan processor c2d)\n2.Desktop (Minimal ram 4gb dan processor c2d)\n3.Mobile (Minimal ram 4gb dan processor c2d)\n4.Network (Minimal ram 4gb dan processor c2d)\n5.Hardware software (Minimal ram 4gb dan processor c2d)"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "spesifikasi laptop",
+            "jawaban": "Untuk spesifikasi laptop dapat disesuaikan sebagi berikut:\n 1. Web (Minimal ram 2gb dan processor c2d)\n2.Desktop (Minimal ram 4gb dan processor c2d)\n3.Mobile (Minimal ram 4gb dan processor c2d)\n4.Network (Minimal ram 4gb dan processor c2d)\n5.Hardware software (Minimal ram 4gb dan processor c2d)"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "laptop apa",
+            "jawaban": "Untuk spesifikasi laptop dapat disesuaikan sebagi berikut:\n 1. Web (Minimal ram 2gb dan processor c2d)\n2.Desktop (Minimal ram 4gb dan processor c2d)\n3.Mobile (Minimal ram 4gb dan processor c2d)\n4.Network (Minimal ram 4gb dan processor c2d)\n5.Hardware software (Minimal ram 4gb dan processor c2d)"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "bisa ios",
+            "jawaban": "Untuk saat ini mobile hanya mempelajari untuk android saja"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "ios bisa",
+            "jawaban": "Untuk saat ini mobile hanya mempelajari untuk android saja"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "belajar ios",
+            "jawaban": "Untuk saat ini mobile hanya mempelajari untuk android saja"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "jadi pengurus",
+            "jawaban": "Syaratnya mudah, cukup jadi member dulu, lalu ikuti event di amcc, dan saat pendaftaran menjadi pengurus tiba segera daftar dengan cepat"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "daftar pengurus",
+            "jawaban": "Syaratnya mudah, cukup jadi member dulu, lalu ikuti event di amcc, dan saat pendaftaran menjadi pengurus tiba segera daftar dengan cepat"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "amcc dan koma",
+            "jawaban": "kalau tabrakan bisa masuk di sesi berbeda, karena kita punya 2 sesi, pagi dan siang jadi tenang aja"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "jadwal bentrok",
+            "jawaban": "kalau tabrakan bisa masuk di sesi berbeda, karena kita punya 2 sesi, pagi dan siang jadi tenang aja"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "jadwal tabrakan",
+            "jawaban": "kalau tabrakan bisa masuk di sesi berbeda, karena kita punya 2 sesi, pagi dan siang jadi tenang aja"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "bahasa yang digunakan",
+            "jawaban": "Yuk cek dibawah ini:\n 1. Web (HTML,CSS,JS,PHP)\n2.Dektop (C#)\n3.Mobile (Java,Kotlin)\n4.Hardware (C)\n5.Network (Belajar mikrotik)"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "bahasa apa",
+            "jawaban": "Yuk cek dibawah ini:\n 1. Web (HTML,CSS,JS,PHP)\n2.Dektop (C#)\n3.Mobile (Java,Kotlin)\n4.Hardware (C)\n5.Network (Belajar mikrotik)"
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "boleh dicicil",
+            "jawaban": "Maaf untuk saat ini belum bisa, tapi bisa daftar dulu di join.amcc.or.id bayarnya bisa sampai tanggal 3 november "
+       },
+       {
+            "kategori" : "pendaftaran",
+            "kata_kunci": "belajar bahasa",
+            "jawaban": "Yuk cek dibawah ini:\n1. Web (HTML,CSS,JS,PHP)\n2.Dektop (C#)\n3.Mobile (Java,Kotlin)\n4.Hardware (C)\n5.Network (Belajar mikrotik)"
+       },
+       {
+            "kategori" : "event",
+            "kata_kunci": "kegiatan amcc",
+            "jawaban": "Amcc punya beberapa agenda setiap tahunnya, yuk disimak:\n1. Pelatihan rutin\n2.seminar\n3.pengabdian masyarakat\n4.belajar bareng\n5. Introduce To Computer (ITC)"
+       },
+       {
+            "kategori" : "event",
+            "kata_kunci": "kegiatan apa saja",
+            "jawaban": "Amcc punya beberapa agenda setiap tahunnya, yuk disimak:\n1. Pelatihan rutin\n2.seminar\n3.pengabdian masyarakat\n4.belajar bareng\n5. Introduce To Computer (ITC)"
+       },
+       {
+            "kategori" : "event",
+            "kata_kunci": "kegiatan apa aja",
+            "jawaban": "Amcc punya beberapa agenda setiap tahunnya, yuk disimak:\n1. Pelatihan rutin\n2.seminar\n3.pengabdian masyarakat\n4.belajar bareng\n5. Introduce To Computer (ITC)"
+       },
+       {
+            "kategori" : "event",
+            "kata_kunci": "amcc ngapain",
+            "jawaban": "Amcc punya beberapa agenda setiap tahunnya, yuk disimak:\n1. Pelatihan rutin\n2.seminar\n3.pengabdian masyarakat\n4.belajar bareng\n5. Introduce To Computer (ITC)"
+       },
+       {
+            "kategori" : "event",
+            "kata_kunci": "agenda amcc",
+            "jawaban": "Amcc punya beberapa agenda setiap tahunnya, yuk disimak:\n1. Pelatihan rutin\n2.seminar\n3.pengabdian masyarakat\n4.belajar bareng\n5. Introduce To Computer (ITC)"
+       },
+       {
+            "kategori" : "event",
+            "kata_kunci": "instruktur itc",
+            "jawaban": "Pendaftaran instruktur ITC dibuka dari tanggal 11 - 24 Maret 2019, untuk informasi lebih lanjut silahkan cek instagram @itcamikom"
+       },
+       {
+            "kategori" : "event",
+            "kata_kunci": "seminar nasional",
+            "jawaban": "Pendaftaran seminar nasional dibuka dari tanggal 02 - 25 Juli 2019, untuk melakukan pendaftaran silahkan kunjungi semnas.amcc.or.id"
+       },
+       {
+            "kategori" : "kaderisasi",
+            "kata_kunci": "wawancara kader",
+            "jawaban": "Wawancara kader diadakan pada hari minggu, bertempat di basecamp AMCC tanggal 3 Maret 2019 pukul 09:00 s/d 14:00 WIB, diharapkan untuk membawa CV beserta Portofolio"
+       }
+       
+
+   ],
+   "status" : "200",
+   "message": "sukses"
+}
